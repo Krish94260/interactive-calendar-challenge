@@ -2,6 +2,8 @@
 
 A polished, interactive React/Next.js calendar component inspired by physical wall calendars. Built for the TakeYouForward Frontend Engineering Challenge.
 
+### 🌐 [Live Demo](https://interactive-calendar-challenge.vercel.app/)
+
 ## Features
 
 ### Core Requirements
