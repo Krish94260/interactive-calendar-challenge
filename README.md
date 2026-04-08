@@ -57,8 +57,8 @@ Open [http://localhost:3000](http://localhost:3000) to view the calendar.
 ### Build for Production
 
 ```bash
-pnpm build
-pnpm start
+pnpm/npm build
+pnpm/npm start
 ```
 
 ## Project Structure
